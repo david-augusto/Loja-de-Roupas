@@ -1,0 +1,164 @@
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+CLIENTE              CPF
+ad   03339706590
+asd asd asd
+---------------------------------------
+28/08/2020  00:56:38
+             CUPOM FISCAL          
+QTD          DESCRIÇÃO           PREÇO
+  2         ca NAUTICA          44.0
+ 
+---------------------------------------
+TOTAL                          R$ 44.0
+---------------------------------------
+Vendedor wdd
+
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+CLIENTE              CPF
+asdf   03339706590
+asd asd asd
+---------------------------------------
+28/08/2020  00:58:45
+             CUPOM FISCAL          
+QTD          DESCRIÇÃO           PREÇO
+  2         camisa NAUTICA          4.0
+  33         asdf NAUTICA          1089.0
+ 
+---------------------------------------
+TOTAL                          R$ 1093.0
+---------------------------------------
+Vendedor dfsdf
+
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+CLIENTE              CPF
+asdf   03339706590
+sa asd 
+---------------------------------------
+28/08/2020  00:59:50
+             CUPOM FISCAL          
+QTD          DESCRIÇÃO           PREÇO
+  2         ca NAUTICA          44.0
+ 
+---------------------------------------
+TOTAL                          R$ 44.0
+---------------------------------------
+Vendedor sdf
+
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+CLIENTE              CPF
+asdf   03339706590
+asd asd asd
+---------------------------------------
+28/08/2020  01:00:33
+             CUPOM FISCAL          
+QTD          DESCRIÇÃO           PREÇO
+  2         ca NAUTICA          44.0
+ 
+---------------------------------------
+TOTAL                          R$ 44.0
+---------------------------------------
+Vendedor df
+
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+CLIENTE              CPF
+junior   03339706590
+as asd asd
+---------------------------------------
+28/08/2020  01:17:23
+             CUPOM FISCAL          
+QTD          DESCRIÇÃO           PREÇO
+  4         cam POLO          390.0
+ 
+---------------------------------------
+TOTAL                          R$ 390.0
+---------------------------------------
+Vendedor adsf
+
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+CLIENTE              CPF
+junior   03339706590
+asd asd asd
+---------------------------------------
+28/08/2020  20:23:24
+             CUPOM FISCAL          
+QTD          DESCRIÇÃO           PREÇO
+  2         cam NAUTICA          46.0
+ 
+---------------------------------------
+TOTAL                          R$ 46.0
+---------------------------------------
+Vendedor asdasd
+
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+CLIENTE              CPF
+asda   03339706590
+saf ef sdf
+---------------------------------------
+28/08/2020  20:33:15
+             CUPOM FISCAL          
+QTD          DESCRIÇÃO           PREÇO
+  3         dsf NAUTICA          9.0
+  3         sad NAUTICA          9.0
+ 
+---------------------------------------
+TOTAL                          R$ 18.0
+---------------------------------------
+Vendedor mateus
+
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+CLIENTE              CPF
+mateus   03339706590
+rua da lua asd asd
+---------------------------------------
+28/08/2020  22:43:37
+             CUPOM FISCAL          
+QTD          DESCRIÇÃO           PREÇO
+  3         ca NAUTICA          9.0
+ 
+---------------------------------------
+TOTAL                          R$ 9.0
+---------------------------------------
+Vendedor asd
+
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+CLIENTE              CPF
+fdfdfd   11299596436
+yhgygy hbhbh hbhbh
+---------------------------------------
+14/09/2020  00:03:54
+             CUPOM FISCAL          
+QTD          DESCRIÇÃO           PREÇO
+  5         gffgfgf NAUTICA          15.0
+ 
+---------------------------------------
+TOTAL                          R$ 15.0
+---------------------------------------
+Vendedor hhhh
+

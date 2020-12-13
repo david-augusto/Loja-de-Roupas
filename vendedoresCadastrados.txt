@@ -1,0 +1,32 @@
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+VENDEDOR              
+Cleitin   
+RUA: Sento Sé BAIRRO: Jardim M CIDADE: Petrolina
+SALÁRIO BRUTO: 	1400.0
+DEFICIENTE?: NÃO
+DESCONTOS:                          
+INSS:                R$ 105.00001
+VALE ALIMENTAÇÃO:    R$ 20.0
+VALE TRANSPORTE:     R$ 84.0
+SALÁRIO LIQUIDO      R$ 1191.0
+---------------------------------------
+
+              FASHION STAR 
+CNPJ 15.263.926/0001-47 
+Jardim José Figueira Ribeirão Preto SP
+---------------------------------------
+VENDEDOR              
+ghghg   
+RUA: nbbnb BAIRRO: bbbbbbbbbbb CIDADE: bbvbv
+SALÁRIO BRUTO: 	66666.0
+DEFICIENTE?: SIM - yytyty
+DESCONTOS:                          
+INSS:                R$ 4999.95
+VALE ALIMENTAÇÃO:    R$ 20.0
+VALE TRANSPORTE:     R$ 3999.96
+SALÁRIO LIQUIDO      R$ 57646.09
+---------------------------------------
+
