@@ -12,7 +12,6 @@ estáticas devem ser private
 criada para o sistema;
 • Deve ter pelo menos um atributo ArrayList;.
 • Deve haver alguma constante declarada e usada;
-Trabalho: Itens Obrigatórios
 • 2 – Métodos (2 itens):
 2.1. Algum método deve ter uma lista de argumentos
 variados.
@@ -21,16 +20,13 @@ programa. Certamente que ele precisa ser necessário e
 utilizado.
 • 3 – Construtor: Pelo menos duas classes do projeto
 deve possuir um construtor declarado;
-Trabalho: Itens Obrigatórios
 • 4 – Associação por Composição
 • 5 – Associação por Agregação
 • 6 - Herança (2 itens)
 6.1. Deve declarar algum atributo final em alguma
 Superclasse;
 6.2. Pelo menos um acoplamento dinâmico (acesso a
-método da superclasse);01/08/2020
-4
-Trabalho: Itens Obrigatórios
+método da superclasse);
 • 7 – Pelo menos um de cada Polimorfismo (4 itens)
 7.1. Polimorfismo de sobrecarga;
 7.2. Polimorfismo de coerção;
@@ -39,7 +35,6 @@ Trabalho: Itens Obrigatórios
 • 8 – Pelo menos três classes do sistema devem
 implementar uma interface. Uma destas classes deve
 implementar, pelo menos, duas interfaces.
-Trabalho: Itens Obrigatórios
 • 9 – Pacotes. Criar pelo menos dois pacotes.
 • 10 – Classes abstratas. Pelo menos duas. Certamente
 que as concretas também devem ser implementadas.
